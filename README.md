@@ -16,7 +16,7 @@ Instrucciones de compilacion y ejecución:
 Descripción de cada algoritmo:
 
 Gráfica comparativa de los tiempos de ejecución obtenidos en el experimento:
-[Grafica comparativa](https://github.com/Royito06/AnalisisOrdenamientos/blob/main/AnalisisDeOrdenamientos/GraficaComparativaTiemposOrdenamientos.png?raw=true)
+![Grafica comparativa](https://github.com/Royito06/AnalisisOrdenamientos/blob/main/AnalisisDeOrdenamientos/GraficaComparativaTiemposOrdenamientos.png?raw=true)
 Análisis de los resultados obtenidos:
 
 Conclusiones:
