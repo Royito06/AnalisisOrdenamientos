@@ -7,7 +7,7 @@ Requisitos del sistema:
 -Librerias:
 `<iostream>`
 `<chrono>`
-`<algorithm>`
+`<algorithm>` <br>
 -Hardware: Minimo 2 GB de RAM <br>
 
 Instrucciones de compilacion y ejecución:
@@ -24,5 +24,6 @@ Análisis de los resultados obtenidos:
 Conclusiones:
 
 
-Archivo .CSV generado que contiene los tiempos de ejecución
+Descargable del Archivo .CSV generado que contiene los tiempos de ejecución
 
+[Ver contenido en bruto](https://github.com/Royito06/AnalisisOrdenamientos/raw/main/AnalisisDeOrdenamientos/Sources/resultados.csv)
