@@ -32,7 +32,7 @@ void ejecutarPruebas(const std::string& archivoCSV = "resultados.csv") {
     };
 
     // Cabecera CSV (algoritmos como columnas)
-    archivo << "Tama�o";
+    archivo << "Tama\244o";
     for (const auto& alg : algoritmos) {
         archivo << "," << alg.first;
     }
