@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1743045392 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\main.cpp
+	<iostream>
+	"Gestion.h"
+
+1743044819 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\ordenamientos.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<random>
+	<fstream>
+	<string>
+	"ordenamientos.h"
+	"Gestion.h"
+
+1743044819 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\ordenamientos.h
+	<vector>
+	<algorithm>
+
+1743045360 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\gestion.cpp
+	<vector>
+	<chrono>
+	<fstream>
+	<string>
+	<iostream>
+	<algorithm>
+	"Ordenamientos.h"
+	"generador.h"
+
+1743045360 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\gestion.h
+	<vector>
+	<string>
+
+1743045110 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\generador.cpp
+	<vector>
+	<random>
+
+1743045172 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdeordenamientos\generador.h
+
+1743045110 source:c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\generador.cpp
+	<vector>
+	<random>
+
+1743047584 source:c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\main.cpp
+	<iostream>
+	"Gestion.h"
+
+1743045360 c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\gestion.h
+	<vector>
+	<string>
+
+1743049622 source:c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\gestion.cpp
+	<vector>
+	<chrono>
+	<fstream>
+	<string>
+	<algorithm>
+	<iostream>
+	<iomanip>
+	"Ordenamientos.h"
+	"generador.h"
+
+1743049150 c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\ordenamientos.h
+	<vector>
+	<algorithm>
+
+1743048827 c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\generador.h
+
+1743048392 source:c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\ordenamientos.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<random>
+	<fstream>
+	<string>
+	"ordenamientos.h"
+	"Gestion.h"
+
+1743048827 c:\datos\programación\c++\ordenamientos\analisisdeordenamientos\gestion.h
+	<vector>
+	<string>
+

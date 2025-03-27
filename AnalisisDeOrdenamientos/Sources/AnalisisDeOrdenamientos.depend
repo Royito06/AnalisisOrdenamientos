@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1743045110 source:c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\sources\generador.cpp
+	<vector>
+	<random>
+
+1743082615 source:c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\sources\gestion.cpp
+	<vector>
+	<chrono>
+	<fstream>
+	<string>
+	<algorithm>
+	<iostream>
+	<iomanip>
+	"../headers/Ordenamientos.h"
+	"../headers/Generador.h"
+
+1743082299 c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\headers\ordenamientos.h
+	<vector>
+
+1743082645 c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\headers\generador.h
+	<vector>
+
+1743082612 source:c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\sources\ordenamientos.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<random>
+	<fstream>
+	<string>
+	"../headers/Ordenamientos.h"
+	"../headers/Gestion.h"
+
+1743082299 c:\datos\programación\c++\ordenamientos\analisisordenamientos\analisisdeordenamientos\headers\gestion.h
+	<vector>
+	<string>
+
