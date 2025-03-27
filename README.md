@@ -2,13 +2,13 @@
 
 Requisitos del sistema:
 
--Sistema operativo: Windows/Linux/macOS
--Compilador: g++ (GCC) o similares compatibles con C++11
+-Sistema operativo: Windows/Linux/macOS <br>
+-Compilador: g++ (GCC) o similares compatibles con C++11 <br>
 -Librerias:
-<iostream>
-<chrono>
-<algorithm>
--Hardware: Minimo 2 GB de RAM 
+`<iostream>`
+`<chrono>`
+`<algorithm>`
+-Hardware: Minimo 2 GB de RAM <br>
 
 Instrucciones de compilacion y ejecución:
 
